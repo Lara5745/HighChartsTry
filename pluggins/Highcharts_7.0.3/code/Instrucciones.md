@@ -1,2 +1,2 @@
 
-Descomprimir comp.zip, para el funcionamiento correcto
+Descomprimir # comp.zip #, para el funcionamiento correcto
